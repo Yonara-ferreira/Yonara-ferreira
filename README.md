@@ -2,7 +2,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/995764898460090478)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.kkirra/)
 
-![Yonara GitHub stats](https://github-readme-stats.vercel.app/api?username=Yonara-ferreira&show_icons=true&theme=synthwave)
+![Yonara GitHub stats](https://github-readme-stats.vercel.app/api?username=Yonara-ferreira&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Yonara-ferreira/github-readme-stats)
 
