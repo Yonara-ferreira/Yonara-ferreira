@@ -19,3 +19,5 @@
     <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 
 </div>
+
+  ![Snake animation](https://github.com/Yonara-ferreira/Yonara-ferreira/blob/output/github-contribution-grid-snake.svg)
