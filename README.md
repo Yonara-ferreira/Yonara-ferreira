@@ -31,7 +31,7 @@
 ![postgres SQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117&textColor=0D1117)&nbsp;
-![SAP](https://img.shields.io/badge/-sap-0D1117?style=for-the-badge&logo=sap&labelColor=0D1117&textColor=0D1117)&nbsp;
+
  
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
