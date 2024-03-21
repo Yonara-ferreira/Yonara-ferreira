@@ -1,6 +1,6 @@
 # Hello, I'm Nara!
 
-- I'm currently working as a Back-end Developar at UC Technology.
+- I'm currently working as a FullStack Developar at DataInfo - Sefaz pe.
 - Learning Angular and Java Spring Boot.
 - Contact me on <a href='https://www.linkedin.com/in/yonara-ferreira'>LinkedIn</a> or email me at yonara.fd@gmail.com
 
