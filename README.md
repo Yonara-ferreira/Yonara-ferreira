@@ -1,6 +1,6 @@
 # Hello, I'm Nara!
 
-- I'm currently working as a FullStack Developar at DataInfo - Sefaz pe.
+- I'm currently working as a FullStack Developar at Basis - Banco do Nordeste.
 - Learning Angular and Java Spring Boot.
 - Contact me on <a href='https://www.linkedin.com/in/yonara-ferreira'>LinkedIn</a> or email me at yonara.fd@gmail.com
 
@@ -13,7 +13,7 @@
     - Angular
 
   - Back-end:
-    - C#
+    - Spring Batch
     - Java
     - Spring Boot
       
